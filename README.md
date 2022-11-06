@@ -34,3 +34,4 @@ Sıralandıktan sonra 18 orta kısımda olduğu için average case kapsamındad�
 * [3,5,7|,8,2,9,4,15,6]
 * [3,5,7,8|,2,9,4,15,6]
   
+  [patika.dev](https://www.patika.dev/tr)
